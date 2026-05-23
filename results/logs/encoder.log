@@ -1,0 +1,281 @@
+01:27:28 [INFO] mpeg4: === MPEG-4 Encoder Pipeline ===
+01:27:28 [INFO] mpeg4: Loading frames from: data/input_frames
+01:27:28 [INFO] mpeg4: Loaded 30 frames  (320×240)
+01:27:28 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=2.0  chroma_sub=True
+01:27:34 [INFO] mpeg4.entropy: Bitstream written: 135.8 KB
+01:27:34 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:27:34 [INFO] mpeg4.decoder: Decoding bitstream: data/outputs/compressed.bin
+01:27:34 [INFO] mpeg4.entropy: Reading bitstream: data/outputs/compressed.bin
+01:27:34 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:27:34 [INFO] mpeg4.decoder:   30 frames to decode
+01:27:36 [INFO] mpeg4.decoder: Decoding complete.
+01:27:36 [INFO] mpeg4.metrics: Metrics | PSNR=30.90 dB  MSE=52.92  CR=49.69×  I=4  P=26
+01:27:37 [INFO] mpeg4: Running QF sweep …
+01:27:37 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=0.5  chroma_sub=True
+01:27:45 [INFO] mpeg4.entropy: Bitstream written: 299.1 KB
+01:27:45 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:27:45 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:27:45 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:27:45 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:27:45 [INFO] mpeg4.decoder:   30 frames to decode
+01:27:47 [INFO] mpeg4.decoder: Decoding complete.
+01:27:47 [INFO] mpeg4.metrics: Metrics | PSNR=35.77 dB  MSE=17.29  CR=22.57×  I=4  P=26
+01:27:47 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=1.0  chroma_sub=True
+01:27:57 [INFO] mpeg4.entropy: Bitstream written: 199.3 KB
+01:27:57 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:27:57 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:27:57 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:27:57 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:27:57 [INFO] mpeg4.decoder:   30 frames to decode
+01:27:59 [INFO] mpeg4.decoder: Decoding complete.
+01:27:59 [INFO] mpeg4.metrics: Metrics | PSNR=33.40 dB  MSE=29.83  CR=33.87×  I=4  P=26
+01:27:59 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=2.0  chroma_sub=True
+01:28:08 [INFO] mpeg4.entropy: Bitstream written: 135.8 KB
+01:28:08 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:28:08 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:28:08 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:28:08 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:28:08 [INFO] mpeg4.decoder:   30 frames to decode
+01:28:09 [INFO] mpeg4.decoder: Decoding complete.
+01:28:10 [INFO] mpeg4.metrics: Metrics | PSNR=30.90 dB  MSE=52.92  CR=49.69×  I=4  P=26
+01:28:10 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=4.0  chroma_sub=True
+01:28:16 [INFO] mpeg4.entropy: Bitstream written: 94.4 KB
+01:28:16 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:28:16 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:28:16 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:28:16 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:28:16 [INFO] mpeg4.decoder:   30 frames to decode
+01:28:18 [INFO] mpeg4.decoder: Decoding complete.
+01:28:18 [INFO] mpeg4.metrics: Metrics | PSNR=28.40 dB  MSE=94.24  CR=71.50×  I=4  P=26
+01:28:18 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=8.0  chroma_sub=True
+01:28:25 [INFO] mpeg4.entropy: Bitstream written: 72.4 KB
+01:28:25 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:28:25 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:28:25 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:28:25 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:28:25 [INFO] mpeg4.decoder:   30 frames to decode
+01:28:26 [INFO] mpeg4.decoder: Decoding complete.
+01:28:27 [INFO] mpeg4.metrics: Metrics | PSNR=26.34 dB  MSE=151.23  CR=93.19×  I=4  P=26
+01:28:27 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=16.0  chroma_sub=True
+01:28:34 [INFO] mpeg4.entropy: Bitstream written: 61.2 KB
+01:28:34 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:28:34 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:28:34 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:28:34 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:28:34 [INFO] mpeg4.decoder:   30 frames to decode
+01:28:35 [INFO] mpeg4.decoder: Decoding complete.
+01:28:35 [INFO] mpeg4.metrics: Metrics | PSNR=24.13 dB  MSE=251.75  CR=110.35×  I=4  P=26
+01:28:35 [INFO] mpeg4.visualisation:   Saved: C:\Users\HP\Downloads\mpeg4_encoder_project\mpeg4_encoder_project\results\plots\qf_sweep.png
+01:28:35 [INFO] mpeg4: Running GOP sweep …
+01:28:35 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=1  QF=2.0  chroma_sub=True
+01:28:38 [INFO] mpeg4.entropy: Bitstream written: 255.4 KB
+01:28:38 [INFO] mpeg4.encoder: Encoding complete: 30 I-frames, 0 P-frames
+01:28:38 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:28:38 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:28:38 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:28:38 [INFO] mpeg4.decoder:   30 frames to decode
+01:28:40 [INFO] mpeg4.decoder: Decoding complete.
+01:28:40 [INFO] mpeg4.metrics: Metrics | PSNR=31.02 dB  MSE=51.46  CR=26.43×  I=30  P=0
+01:28:40 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=2  QF=2.0  chroma_sub=True
+01:28:45 [INFO] mpeg4.entropy: Bitstream written: 187.4 KB
+01:28:45 [INFO] mpeg4.encoder: Encoding complete: 15 I-frames, 15 P-frames
+01:28:45 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:28:45 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:28:45 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:28:45 [INFO] mpeg4.decoder:   30 frames to decode
+01:28:46 [INFO] mpeg4.decoder: Decoding complete.
+01:28:46 [INFO] mpeg4.metrics: Metrics | PSNR=31.00 dB  MSE=51.67  CR=36.02×  I=15  P=15
+01:28:46 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=4  QF=2.0  chroma_sub=True
+01:28:53 [INFO] mpeg4.entropy: Bitstream written: 153.9 KB
+01:28:53 [INFO] mpeg4.encoder: Encoding complete: 8 I-frames, 22 P-frames
+01:28:53 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:28:53 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:28:53 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:28:53 [INFO] mpeg4.decoder:   30 frames to decode
+01:28:54 [INFO] mpeg4.decoder: Decoding complete.
+01:28:54 [INFO] mpeg4.metrics: Metrics | PSNR=30.97 dB  MSE=52.05  CR=43.85×  I=8  P=22
+01:28:54 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=2.0  chroma_sub=True
+01:29:01 [INFO] mpeg4.entropy: Bitstream written: 135.8 KB
+01:29:01 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:29:01 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:29:01 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:29:01 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:29:01 [INFO] mpeg4.decoder:   30 frames to decode
+01:29:02 [INFO] mpeg4.decoder: Decoding complete.
+01:29:02 [INFO] mpeg4.metrics: Metrics | PSNR=30.90 dB  MSE=52.92  CR=49.69×  I=4  P=26
+01:29:02 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=16  QF=2.0  chroma_sub=True
+01:29:09 [INFO] mpeg4.entropy: Bitstream written: 127.2 KB
+01:29:09 [INFO] mpeg4.encoder: Encoding complete: 2 I-frames, 28 P-frames
+01:29:09 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:29:09 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpwkbderec\tmp.bin
+01:29:09 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:29:09 [INFO] mpeg4.decoder:   30 frames to decode
+01:29:10 [INFO] mpeg4.decoder: Decoding complete.
+01:29:10 [INFO] mpeg4.metrics: Metrics | PSNR=30.79 dB  MSE=54.47  CR=53.06×  I=2  P=28
+01:29:10 [INFO] mpeg4.visualisation:   Saved: C:\Users\HP\Downloads\mpeg4_encoder_project\mpeg4_encoder_project\results\plots\gop_sweep.png
+01:29:10 [INFO] mpeg4: Evaluation sweeps complete.
+01:33:03 [INFO] mpeg4: === MPEG-4 Encoder Pipeline ===
+01:33:03 [INFO] mpeg4: Loading frames from: data/input_frames
+01:33:03 [INFO] mpeg4: Loaded 30 frames  (320×240)
+01:33:03 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=2.0  chroma_sub=True
+01:33:19 [INFO] mpeg4.entropy: Bitstream written: 133.6 KB
+01:33:19 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:33:19 [INFO] mpeg4.decoder: Decoding bitstream: data/outputs/compressed.bin
+01:33:19 [INFO] mpeg4.entropy: Reading bitstream: data/outputs/compressed.bin
+01:33:19 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:33:19 [INFO] mpeg4.decoder:   30 frames to decode
+01:33:21 [INFO] mpeg4.decoder: Decoding complete.
+01:33:21 [INFO] mpeg4.metrics: Metrics | PSNR=30.97 dB  MSE=52.11  CR=50.54×  I=4  P=26
+01:33:21 [INFO] mpeg4: Running QF sweep …
+01:33:21 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=0.5  chroma_sub=True
+01:33:39 [INFO] mpeg4.entropy: Bitstream written: 295.5 KB
+01:33:39 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:33:39 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:33:39 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:33:39 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:33:39 [INFO] mpeg4.decoder:   30 frames to decode
+01:33:40 [INFO] mpeg4.decoder: Decoding complete.
+01:33:41 [INFO] mpeg4.metrics: Metrics | PSNR=35.81 dB  MSE=17.09  CR=22.85×  I=4  P=26
+01:33:41 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=1.0  chroma_sub=True
+01:34:03 [INFO] mpeg4.entropy: Bitstream written: 196.3 KB
+01:34:03 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:34:03 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:34:03 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:34:03 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:34:03 [INFO] mpeg4.decoder:   30 frames to decode
+01:34:04 [INFO] mpeg4.decoder: Decoding complete.
+01:34:05 [INFO] mpeg4.metrics: Metrics | PSNR=33.46 dB  MSE=29.39  CR=34.39×  I=4  P=26
+01:34:05 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=2.0  chroma_sub=True
+01:34:30 [INFO] mpeg4.entropy: Bitstream written: 133.6 KB
+01:34:30 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:34:30 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:34:30 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:34:30 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:34:30 [INFO] mpeg4.decoder:   30 frames to decode
+01:34:32 [INFO] mpeg4.decoder: Decoding complete.
+01:34:32 [INFO] mpeg4.metrics: Metrics | PSNR=30.97 dB  MSE=52.11  CR=50.54×  I=4  P=26
+01:34:32 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=4.0  chroma_sub=True
+01:34:57 [INFO] mpeg4.entropy: Bitstream written: 93.5 KB
+01:34:57 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:34:57 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:34:57 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:34:57 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:34:58 [INFO] mpeg4.decoder:   30 frames to decode
+01:34:59 [INFO] mpeg4.decoder: Decoding complete.
+01:34:59 [INFO] mpeg4.metrics: Metrics | PSNR=28.46 dB  MSE=92.75  CR=72.22×  I=4  P=26
+01:34:59 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=8.0  chroma_sub=True
+01:35:15 [INFO] mpeg4.entropy: Bitstream written: 72.3 KB
+01:35:15 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:35:15 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:35:15 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:35:15 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:35:15 [INFO] mpeg4.decoder:   30 frames to decode
+01:35:16 [INFO] mpeg4.decoder: Decoding complete.
+01:35:17 [INFO] mpeg4.metrics: Metrics | PSNR=26.46 dB  MSE=146.99  CR=93.31×  I=4  P=26
+01:35:17 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=16.0  chroma_sub=True
+01:35:32 [INFO] mpeg4.entropy: Bitstream written: 62.9 KB
+01:35:32 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:35:32 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:35:32 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:35:32 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:35:32 [INFO] mpeg4.decoder:   30 frames to decode
+01:35:33 [INFO] mpeg4.decoder: Decoding complete.
+01:35:33 [INFO] mpeg4.metrics: Metrics | PSNR=24.28 dB  MSE=243.60  CR=107.26×  I=4  P=26
+01:35:33 [INFO] mpeg4.visualisation:   Saved: C:\Users\HP\Downloads\mpeg4_encoder_project\mpeg4_encoder_project\results\plots\qf_sweep.png
+01:35:33 [INFO] mpeg4: Running GOP sweep …
+01:35:33 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=1  QF=2.0  chroma_sub=True
+01:35:36 [INFO] mpeg4.entropy: Bitstream written: 255.4 KB
+01:35:36 [INFO] mpeg4.encoder: Encoding complete: 30 I-frames, 0 P-frames
+01:35:36 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:35:36 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:35:36 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:35:36 [INFO] mpeg4.decoder:   30 frames to decode
+01:35:37 [INFO] mpeg4.decoder: Decoding complete.
+01:35:37 [INFO] mpeg4.metrics: Metrics | PSNR=31.02 dB  MSE=51.46  CR=26.43×  I=30  P=0
+01:35:37 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=2  QF=2.0  chroma_sub=True
+01:35:48 [INFO] mpeg4.entropy: Bitstream written: 186.3 KB
+01:35:48 [INFO] mpeg4.encoder: Encoding complete: 15 I-frames, 15 P-frames
+01:35:48 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:35:48 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:35:48 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:35:48 [INFO] mpeg4.decoder:   30 frames to decode
+01:35:49 [INFO] mpeg4.decoder: Decoding complete.
+01:35:49 [INFO] mpeg4.metrics: Metrics | PSNR=31.02 dB  MSE=51.46  CR=36.23×  I=15  P=15
+01:35:49 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=4  QF=2.0  chroma_sub=True
+01:36:04 [INFO] mpeg4.entropy: Bitstream written: 152.2 KB
+01:36:04 [INFO] mpeg4.encoder: Encoding complete: 8 I-frames, 22 P-frames
+01:36:04 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:36:04 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:36:04 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:36:04 [INFO] mpeg4.decoder:   30 frames to decode
+01:36:05 [INFO] mpeg4.decoder: Decoding complete.
+01:36:05 [INFO] mpeg4.metrics: Metrics | PSNR=31.01 dB  MSE=51.57  CR=44.35×  I=8  P=22
+01:36:05 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=2.0  chroma_sub=True
+01:36:22 [INFO] mpeg4.entropy: Bitstream written: 133.6 KB
+01:36:22 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:36:22 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:36:22 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:36:22 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:36:22 [INFO] mpeg4.decoder:   30 frames to decode
+01:36:23 [INFO] mpeg4.decoder: Decoding complete.
+01:36:23 [INFO] mpeg4.metrics: Metrics | PSNR=30.97 dB  MSE=52.11  CR=50.54×  I=4  P=26
+01:36:23 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=16  QF=2.0  chroma_sub=True
+01:36:40 [INFO] mpeg4.entropy: Bitstream written: 125.0 KB
+01:36:40 [INFO] mpeg4.encoder: Encoding complete: 2 I-frames, 28 P-frames
+01:36:40 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:36:40 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmpdb4ubqd6\tmp.bin
+01:36:40 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:36:40 [INFO] mpeg4.decoder:   30 frames to decode
+01:36:41 [INFO] mpeg4.decoder: Decoding complete.
+01:36:41 [INFO] mpeg4.metrics: Metrics | PSNR=30.87 dB  MSE=53.29  CR=54.02×  I=2  P=28
+01:36:41 [INFO] mpeg4.visualisation:   Saved: C:\Users\HP\Downloads\mpeg4_encoder_project\mpeg4_encoder_project\results\plots\gop_sweep.png
+01:36:41 [INFO] mpeg4: Evaluation sweeps complete.
+01:36:41 [INFO] mpeg4: Generating visualisations …
+01:36:42 [INFO] mpeg4.visualisation:   Saved: C:\Users\HP\Downloads\mpeg4_encoder_project\mpeg4_encoder_project\results\figures\ycbcr_channels.png
+01:36:42 [INFO] mpeg4.visualisation:   Saved: C:\Users\HP\Downloads\mpeg4_encoder_project\mpeg4_encoder_project\results\figures\dct_block.png
+01:36:43 [INFO] mpeg4.visualisation:   Saved: C:\Users\HP\Downloads\mpeg4_encoder_project\mpeg4_encoder_project\results\figures\motion_vectors.png
+01:36:43 [INFO] mpeg4.visualisation:   Saved: C:\Users\HP\Downloads\mpeg4_encoder_project\mpeg4_encoder_project\results\figures\residuals.png
+01:36:43 [INFO] mpeg4.visualisation:   Saved: C:\Users\HP\Downloads\mpeg4_encoder_project\mpeg4_encoder_project\results\figures\pipeline_overview.png
+01:36:44 [INFO] mpeg4.visualisation:   Saved: C:\Users\HP\Downloads\mpeg4_encoder_project\mpeg4_encoder_project\results\plots\psnr_per_frame.png
+01:36:44 [INFO] mpeg4: Visualisations saved.
+01:40:46 [INFO] mpeg4: === MPEG-4 Encoder Pipeline ===
+01:40:46 [INFO] mpeg4: Loading frames from: data/input_frames
+01:40:46 [INFO] mpeg4: Loaded 30 frames  (320×240)
+01:40:46 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=2.0  chroma_sub=True
+01:41:08 [INFO] mpeg4.entropy: Bitstream written: 133.6 KB
+01:41:08 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:41:08 [INFO] mpeg4.decoder: Decoding bitstream: data/outputs/compressed.bin
+01:41:08 [INFO] mpeg4.entropy: Reading bitstream: data/outputs/compressed.bin
+01:41:08 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:41:09 [INFO] mpeg4.decoder:   30 frames to decode
+01:41:11 [INFO] mpeg4.decoder: Decoding complete.
+01:41:11 [INFO] mpeg4.metrics: Metrics | PSNR=30.97 dB  MSE=52.11  CR=50.54×  I=4  P=26
+01:41:11 [INFO] mpeg4: Running QF sweep …
+01:41:11 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=0.5  chroma_sub=True
+01:41:34 [INFO] mpeg4.entropy: Bitstream written: 295.5 KB
+01:41:34 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:41:34 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmp227gaa5v\tmp.bin
+01:41:34 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmp227gaa5v\tmp.bin
+01:41:34 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:41:34 [INFO] mpeg4.decoder:   30 frames to decode
+01:41:36 [INFO] mpeg4.decoder: Decoding complete.
+01:41:36 [INFO] mpeg4.metrics: Metrics | PSNR=35.81 dB  MSE=17.09  CR=22.85×  I=4  P=26
+01:41:36 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=1.0  chroma_sub=True
+01:42:10 [INFO] mpeg4.entropy: Bitstream written: 196.3 KB
+01:42:10 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:42:10 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmp227gaa5v\tmp.bin
+01:42:10 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmp227gaa5v\tmp.bin
+01:42:10 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:42:11 [INFO] mpeg4.decoder:   30 frames to decode
+01:42:12 [INFO] mpeg4.decoder: Decoding complete.
+01:42:13 [INFO] mpeg4.metrics: Metrics | PSNR=33.46 dB  MSE=29.39  CR=34.39×  I=4  P=26
+01:42:13 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=2.0  chroma_sub=True
+01:42:38 [INFO] mpeg4.entropy: Bitstream written: 133.6 KB
+01:42:38 [INFO] mpeg4.encoder: Encoding complete: 4 I-frames, 26 P-frames
+01:42:38 [INFO] mpeg4.decoder: Decoding bitstream: C:\Users\HP\AppData\Local\Temp\tmp227gaa5v\tmp.bin
+01:42:38 [INFO] mpeg4.entropy: Reading bitstream: C:\Users\HP\AppData\Local\Temp\tmp227gaa5v\tmp.bin
+01:42:38 [INFO] mpeg4.entropy:   30 frames in bitstream
+01:42:38 [INFO] mpeg4.decoder:   30 frames to decode
+01:42:40 [INFO] mpeg4.decoder: Decoding complete.
+01:42:40 [INFO] mpeg4.metrics: Metrics | PSNR=30.97 dB  MSE=52.11  CR=50.54×  I=4  P=26
+01:42:40 [INFO] mpeg4.encoder: Encoding 30 frames  GOP=8  QF=4.0  chroma_sub=True
